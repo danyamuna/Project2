@@ -16,6 +16,7 @@ int main(array<String^>^ args) {
     Project2::MyForm1 form1; // Replace MyNamespace with your actual namespace
     //System::Windows::Forms::Application::Run(% form);
     // Show the first form as a modal dialog
+   // System::Windows::Forms::Application::Run(% form);
     System::Windows::Forms::Application::Run(% form1);
     
     

@@ -593,7 +593,7 @@ namespace Project2 {
 		double result = 0.0;
 		bool operationStarted = false;
 		MyForm1^ form1 = gcnew MyForm1();
-		//form1->Hide():
+		
 
 	private: System::Void Button_Click(System::Object^ sender, System::EventArgs^ e) {
 		Button^ B1 = gcnew Button;
